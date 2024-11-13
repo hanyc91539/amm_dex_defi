@@ -11,7 +11,6 @@ import metamaskSDK from "@web3-onboard/metamask"
 import Onboard from '@web3-onboard/core'
 
 const INFURA_ID = '4716a140195c4cabb1418e2ac2f6573d'
-const INFURA_ID_1 = '4716a140195c4cabb1418e2ac2f6573d'
 
 const chains = [
   {
